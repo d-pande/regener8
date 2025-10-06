@@ -1,5 +1,5 @@
 # React + Vite
-# REGENER8, Team Members: Lauren LeVoir, Natalie Thuente, Dhruv Pande, Mallory Malvitz
+# REGENER8 Team Members: Lauren LeVoir, Natalie Thuente, Dhruv Pande, and Mallory Malvitz
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
